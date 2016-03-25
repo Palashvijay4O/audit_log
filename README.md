@@ -1,5 +1,5 @@
 #Audit Log
 
-All the porting work the the Drupal 7 version of the module will be done here.
+All the porting work of the Drupal 7 version of the module will be done here.
 
 
